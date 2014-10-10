@@ -129,7 +129,7 @@ body {
  background: rgb(153,51,51); /* mit red */ }
 
 .reveal .progress span {
-  background: rgb(153,51,51); /* mit red */;
+  background: rgb(153,51,51); /* mit red */
   -webkit-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -moz-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
   -ms-transition: width 800ms cubic-bezier(0.26, 0.86, 0.44, 0.985);
