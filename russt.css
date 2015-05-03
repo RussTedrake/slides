@@ -24,6 +24,11 @@ body {
   text-align: left;
 }
 
+.reveal video {
+  max-height: none;
+  max-width: none;
+}
+
 ::selection {
   color: white;
   background: rgba(0, 0, 0, 0.99);
