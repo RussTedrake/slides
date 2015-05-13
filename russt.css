@@ -24,6 +24,11 @@ body {
   text-align: left;
 }
 
+.reveal .slides section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .reveal video {
   max-height: none;
   max-width: none;
